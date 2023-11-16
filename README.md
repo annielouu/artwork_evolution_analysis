@@ -26,7 +26,7 @@ In this section, I used BERTopic (multilingual model) to perform topic modeling 
 
 Findings: Among all artworks from 3050 BC to present, the 7 common themes of artworks are water scenes, nudity/bath, animals, seated/sleeping scenes, entertainment, fire, body parts.
 
-## Method 3: Word Frequency Analysis
+## Part 3: Word Frequency Analysis
 
 In this section, I analyzed the frequency of specific words over time. First, I used Counter to find out the most common words (words with highest frequency) across the dataset. Then, I analyzed the frequency of some of these words over time. 
 
