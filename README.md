@@ -1,7 +1,3 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Data Science: Final Project
-
-> Capstone Project for Data Science
-
 ## Project objectives
 This project aims to investigate the evolution of themes in artworks over time, and what themes have trascended our history.
 
