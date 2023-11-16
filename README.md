@@ -8,11 +8,15 @@ www.kaggle.com/datasets/antoinegruson/-wikiart-all-images-120k-link
 
 ## Files
 wikiart_eda.ipynb - exploratory data analysis
+
 wikiart_NLP.ipynb - natural language processing
+
 final_presentation.pdf - presentation slides for non-technical audience, includes methodology, findings, and next steps
 
+interactive project page: https://art-theme-nlp.streamlit.app
+
 ## Preprocessing for NLP
-The preprocessing steps include lemmantization and stop word removal in multiple languages.
+The preprocessing steps include tokenization, lemmantization and stop word removal in multiple languages.
 
 ## Part 1: Clustering
 
