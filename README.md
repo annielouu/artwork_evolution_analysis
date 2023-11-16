@@ -28,7 +28,7 @@ Findings: KMeans performed better than DBSCAN. I was able to identify a few clus
 
 In this section, I used BERTopic (multilingual model) to perform topic modeling on artwork titles. I first performed topic modeling on the entire artwork dataset to find common themes across history, then performed the same process on each time period. 
 
-Findings: Among all artworks from 3050 BC to present, the 7 common themes of artworks are water scenes, nudity/bath, animals, seated/sleeping scenes, entertainment, fire, body parts.
+Findings: Among all artworks from 3050 BC to present, the 8 common themes of artworks are portrait, water bodies and transportation, nudity/bath, animals, seated/sleeping figures, entertainment, fire, body parts.
 
 ## Part 3: Word Frequency Analysis
 
